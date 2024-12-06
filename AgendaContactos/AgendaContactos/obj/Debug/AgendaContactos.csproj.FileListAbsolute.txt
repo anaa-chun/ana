@@ -1,0 +1,14 @@
+C:\Users\anach\clasesVS2022LinkiaFP\AgendaContactos\AgendaContactos\bin\Debug\AgendaContactos.exe.config
+C:\Users\anach\clasesVS2022LinkiaFP\AgendaContactos\AgendaContactos\bin\Debug\AgendaContactos.exe
+C:\Users\anach\clasesVS2022LinkiaFP\AgendaContactos\AgendaContactos\bin\Debug\AgendaContactos.pdb
+C:\Users\anach\clasesVS2022LinkiaFP\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos.csproj.AssemblyReference.cache
+C:\Users\anach\clasesVS2022LinkiaFP\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos.Properties.Resources.resources
+C:\Users\anach\clasesVS2022LinkiaFP\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos._Principal.resources
+C:\Users\anach\clasesVS2022LinkiaFP\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos.csproj.GenerateResource.cache
+C:\Users\anach\clasesVS2022LinkiaFP\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos.csproj.CoreCompileInputs.cache
+C:\Users\anach\clasesVS2022LinkiaFP\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos.exe
+C:\Users\anach\clasesVS2022LinkiaFP\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos.pdb
+C:\Users\anach\clasesVS2022LinkiaFP\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos.actualizar.resources
+C:\Users\anach\clasesVS2022LinkiaFP\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos.buscar.resources
+C:\Users\anach\clasesVS2022LinkiaFP\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos.eliminar.resources
+C:\Users\anach\clasesVS2022LinkiaFP\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos.insertar.resources
